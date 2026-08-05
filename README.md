@@ -10,6 +10,9 @@ Rather than focusing on a single analytical technique, the project applies a ran
 
 The repository combines collaborative exploratory analysis with an individual statistical modelling investigation to provide a comprehensive end-to-end data analysis project.
 
+## 👤 My contribution
+Data preparation, exploratory data analysis, regional comparisons and spatial analysis (Questions 1, 2 and 5).
+
 ## 🎯 Objectives
 - Clean and augment the IMD dataset.
 - Explore relationships between deprivation domains.
