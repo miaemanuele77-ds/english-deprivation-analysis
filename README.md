@@ -49,6 +49,30 @@ This project demonstrates:
 
 *The collaborative component focused on understanding deprivation patterns through exploratory analysis and multivariate techniques.*
 
+## 🔍 Exploratory Data Analysis
+
+The scatter matrix was used to examine relationships between the seven IMD deprivation domains.
+
+![Scatter matrix showing relationships between IMD domains](english-deprivation-analysis/images/scatter_matrix.png)
+
+## 📈 Regional Comparison
+
+Health and Education were selected for further investigation because they showed the clearest separation between northern and southern districts.
+
+### Health Deprivation
+
+![Health deprivation boxplot](english-deprivation-analysis/images/health_boxplot.png)
+
+### Education Deprivation
+
+![Education deprivation boxplot](english-deprivation-analysis/images/education_boxplot.png)
+
+## 🗺️ Spatial Analysis
+
+The choropleth map illustrates how Overall deprivation varies geographically across England.
+
+![Choropleth map of Overall IMD scores](english-deprivation-analysis/images/choropleth_map.png)
+
 **Highlights include:**
 
 - Dataset augmentation
