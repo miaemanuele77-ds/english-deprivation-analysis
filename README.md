@@ -100,6 +100,15 @@ The choropleth map illustrates how Overall deprivation varies geographically acr
 - Outlier investigation
 - London-specific modelling
 
+## 📄 Reports
+This repository contains both the collaborative investigation and the individual regression analysis completed as part of this project.
+
+- 📘 **Exploratory Analysis Report (Group Investigation)**  
+  [View Report](english-deprivation-analysis/reports/Exploratory_Analysis_Report.pdf)
+
+- 📙 **Linear Regression Analysis Report (Individual Investigation)**  
+  [View Report](english-deprivation-analysis/reports/Individual_Regression_Analysis_Report.pdf)
+
 ## 📊 Key Findings
 
 - Strong relationships exist between Income, Employment, Education and Health deprivation.
