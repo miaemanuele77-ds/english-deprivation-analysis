@@ -67,6 +67,12 @@ Health and Education were selected for further investigation because they showed
 
 ![Education deprivation boxplot](english-deprivation-analysis/images/education_boxplot.png)
 
+## Districts Identified as Outliers
+
+The table below summarises the districts identified as statistical outliers during the Health and Education deprivation analyses.
+
+![Outlier Districts](english-deprivation-analysis/images/outlier_districts.png)
+
 ## 🗺️ Spatial Analysis
 
 The choropleth map illustrates how Overall deprivation varies geographically across England.
